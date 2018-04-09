@@ -1,0 +1,5 @@
+<html>
+<h1>Embedded Images</h1>
+<p>Images are inline elements they fit in the flow
+<img src="1020638.jpeg">
+of a paragraph without causing extra line breaks.</p>
