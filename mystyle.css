@@ -1,7 +1,4 @@
 
-      body {
-          background-color: #A9A9A9;
-      }
 h1 {
   color: #F8F8FF;
 }
@@ -17,6 +14,6 @@ p {
 a:link { 
     background-color: #F8F8FF;
 }
-<video autoplay muted loop id="myVideo">
-  <source src="722740846.mp4" type="video/mp4">
-</video>
+      body {
+          background-color: #A9A9A9;
+      }
