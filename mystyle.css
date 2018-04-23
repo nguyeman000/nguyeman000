@@ -14,3 +14,9 @@ h3 {
 p {
   color: #F8F8FF;
   }
+a:link { 
+    background-color: #F8F8FF;
+}
+<video autoplay muted loop id="myVideo">
+  <source src="722740846.mp4" type="video/mp4">
+</video>
