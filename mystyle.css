@@ -42,3 +42,14 @@ div.d {
 body {
    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuq4q-i2Ic1y7-a3boKdwGn78V30qkxk1kQZVcvWTsdf6xNX6W");
 }
+h2 {
+    text-decoration: overline;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+h2 {
+    text-decoration: underline overline;
+}
